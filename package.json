@@ -1,0 +1,10 @@
+{
+  "name": "next-tailwindcss-preset",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Adds Tailwind CSS to fresh NextJS application, or creates the NextJS application.",
+  "preset": "src/preset.js",
+  "devDependencies": {
+		"use-preset": "^0"
+	}
+}
