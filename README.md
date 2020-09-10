@@ -5,6 +5,6 @@
    Adds Tailwind CSS to a fresh NextJS application or creates one if it doesn't exist in the current directory
   </p>
   <br />
-  <pre align="center">npx use-preset @farazaulia/next-tailwindcss</pre>
+  <pre align="center">npx use-preset farazaulia/next-tailwindcss</pre>
   &nbsp;
 <p>
